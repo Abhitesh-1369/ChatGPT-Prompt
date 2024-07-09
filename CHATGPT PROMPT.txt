@@ -1,0 +1,126 @@
+PROMPT : read my resume completely and parse the content in JSON format
+
+
+{
+  "name": "Madharam Abhitesh",
+  "contact_info": {
+    "phone": "+91-8019711288",
+    "email_primary": "mm2605@srmist.edu.in",
+    "email_secondary": "abhitesh1369@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abhitesh-madharam",
+    "github": "https://github.com/Abhitesh-1369",
+    "address": {
+      "street": "9-58/1, Hanuman Nagar Colony",
+      "city": "Shankarpally, Ranga Reddy District",
+      "state": "Hyderabad, Telangana",
+      "country": "India",
+      "postal_code": "501203"
+    }
+  },
+  "personal_details": {
+    "gender": "Male",
+    "marital_status": "Single",
+    "date_of_birth": "15 Jun, 2004",
+    "languages_known": ["Telugu", "Hindi", "English", "Japanese"]
+  },
+  "education": [
+    {
+      "institution": "SRM Institute Of Science and Technology, Chennai",
+      "degree": "B.Tech. - CSE - Artificial Intelligence and Machine Learning",
+      "location": "Kattankulathur - Campus",
+      "duration": "2021 - 2025",
+      "cgpa": "9.35 / 10"
+    },
+    {
+      "institution": "Narayana Jr college, Hyderabad",
+      "degree": "12th",
+      "board": "TSBIE",
+      "percentage": "97.60 / 100",
+      "year": "2021"
+    },
+    {
+      "institution": "Narayana CO School, Hyderabad",
+      "degree": "10th",
+      "board": "BSET",
+      "cgpa": "10 / 10",
+      "year": "2019"
+    }
+  ],
+  "internships": [
+    {
+      "company": "CodeClause",
+      "duration": "01 Apr, 2024 - 01 May, 2024",
+      "role": "Artificial Intelligence Intern (VIRTUAL INTERNSHIP)",
+      "responsibilities": [
+        "Developed and implemented advanced AI models and algorithms for various applications such as natural language processing (NLP), computer vision, and predictive analytics.",
+        "Applied problem-solving skills to overcome challenges and optimize AI models for better accuracy and efficiency."
+      ]
+    },
+    {
+      "company": "Oasis InfoByte",
+      "duration": "01 Apr, 2024 - 01 May, 2024",
+      "role": "Python Programming Intern (VIRTUAL INTERNSHIP)",
+      "responsibilities": [
+        "Developed and implemented advanced Python programming projects, focusing on complex algorithms and data structures.",
+        "Improved code efficiency and performance through optimization techniques and debugging."
+      ]
+    },
+    {
+      "company": "LetsGrowMore",
+      "duration": "01 Apr, 2024 - 01 May, 2024",
+      "role": "Python Developer Intern (VIRTUAL INTERNSHIP)",
+      "responsibilities": [
+        "Gained deep understanding of Python programming, covering advanced topics such as multi-threading, multiprocessing, and memory management.",
+        "Stayed updated with the latest Python developments, best practices, and emerging technologies."
+      ]
+    },
+    {
+      "company": "SkillVertex",
+      "duration": "01 Jul, 2023 - 01 Aug, 2023",
+      "role": "Artificial Intelligence Intern (VIRTUAL INTERNSHIP)",
+      "responsibilities": [
+        "Developed and implemented a Vision Transformer (ViT) model for advanced image recognition tasks.",
+        "Collaborated with team members to optimize model architecture and hyperparameters."
+      ]
+    },
+    {
+      "company": "Coincent",
+      "duration": "01 Jul, 2023 - 01 Aug, 2023",
+      "role": "Artificial Intelligence Intern (VIRTUAL INTERNSHIP)",
+      "responsibilities": [
+        "Explored and implemented cutting-edge techniques and algorithms in landmark detection and computer vision.",
+        "Stayed updated with the latest advancements in AI and computer vision through continuous learning and research."
+      ]
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Python",
+    "Object-Oriented Programming",
+    "Data Structures",
+    "Algorithms",
+    "DBMS",
+    "SQL",
+    "AI",
+    "ML",
+    "Networking",
+    "AWS",
+    "Docker"
+  ],
+  "certifications": [
+    "C Language",
+    "Computer Communication and Networking Fundamentals",
+    "Networking Essentials",
+    "Machine Learning Foundations",
+    "Cloud Foundations",
+    "Computer Vision and Image Processing Fundamentals and Applications",
+    "Cybersecurity"
+  ],
+  "additional_info": [
+    "Passionate fourth-year B.Tech CSE student specializing in AI and ML with hands-on experience in Python, C, C++, DBMS, Networking, Cloud, and DevOps.",
+    "Completed internships showcasing ability to develop innovative solutions.",
+    "Focused on aligning with organizational goals and delivering tangible value.",
+    "Strong professional relationships with diverse stakeholders, driving collective success."
+  ]
+}
